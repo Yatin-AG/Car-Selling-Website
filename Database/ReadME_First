@@ -1,0 +1,3 @@
+For Database which is the file "test_db" you have to copy that full folder of "test_db" in-
+-->First locate where the xampp is installed and open xampp folder
+--> Then copy the "test_db" database and paste in xampp-->mysql-->data or (xampp\mysql\data)
